@@ -1,0 +1,7 @@
+ #0. locating table
+ #1. count total number of rows in a table
+ #2. count total number of columns/headers in table
+ #3. Read all the data from 2nd row of the table
+ #4. Read all the data from teh table ( Excluding header)
+ #5. Print Book names whose author is 'Mukesh'
+ #6. Calculate total price of all the book

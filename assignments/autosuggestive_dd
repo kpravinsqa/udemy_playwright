@@ -1,0 +1,21 @@
+Lab Exercise: Automating Auto-Suggest Dropdown in Flipkart using Playwright and Pytest
+1. Open Flipkart Website
+o Navigate to https://www.flipkart.com/
+2. Type Search Query
+o Locate the search box
+o Type "smart" into the search field
+3. Capture and Print Suggestions
+o Get all suggestion elements
+o Print the number of suggestions
+o Print the 5th suggestion (if available)
+o Print all suggestions one by one
+4. Select Specific Suggestion
+o Loop through all suggestions
+o If a suggestion matches "smartphone", click on it to select it
+5. Assertion
+o Check at least one suggestion is present
+Expected Output
+• The number of suggestions should be printed in the terminal.
+• The 5th suggestion (if available) should be displayed.
+• All suggestions should be listed in the output.
+• If "smartphone" appears, it should be automatically clicked.

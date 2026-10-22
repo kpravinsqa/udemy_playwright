@@ -1,0 +1,3 @@
+<Locator frame=<Frame name= url='about:blank'> selector="table[name='BookTable'] tbody >> tr >> nth=2">
+<Locator frame=<Frame name= url='about:blank'> selector="table[name='BookTable'] tbody >> tr >> nth=2">
+<Locator frame=<Frame name= url='about:blank'> selector="table[name='BookTable'] tbody >> tr >> nth=2">

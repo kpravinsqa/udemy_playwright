@@ -1,0 +1,12 @@
+Lab 1: Handling Dynamic Web Tables
+URL: https://testautomationpractice.blogspot.com/
+Objective: Extract and compare process data from a dynamic web table.
+Test Scenarios:
+• Retrieve the CPU Load value for the Chrome process and compare it against the value
+displayed in the yellow label.
+• Retrieve the Memory Usage value for the Firefox process and compare it against the value
+displayed in the blue label.
+• Retrieve the Network Speed value for the Chrome process and compare it against the value
+displayed in the orange label.
+• Retrieve the Disk Space value for the Firefox process and compare it against the value
+displayed in the violet label.

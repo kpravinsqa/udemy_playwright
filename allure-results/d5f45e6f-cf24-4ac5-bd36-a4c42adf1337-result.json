@@ -1,0 +1,1 @@
+{"name": "test_dummyticket[chromium]", "status": "passed", "parameters": [{"name": "browser_name", "value": "'chromium'"}], "start": 1792494123162, "stop": 1792494129778, "uuid": "9122dae6-0a0d-4d62-865c-17205c756913", "testCaseId": "c78956e983bd58a1d7534f8d0d3285ab", "fullName": "tests.datepicker#test_dummyticket", "titlePath": ["tests", "datepicker.py"]}

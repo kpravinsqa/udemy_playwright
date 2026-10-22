@@ -1,0 +1,13 @@
+
+#https://the-internet.herokuapp.com/basic_auth
+#https://admin:admin@the-internet.herokuapp.com/basic_auth
+
+1. bypass authpop by adding creds in url
+2. creating browser, context and page
+
+popup windows :
+hit url : https://testautomationpractice.blogspot.com/
+click on popup windows
+catch url and title of poup opened
+get the highlighlighted text from both popup
+

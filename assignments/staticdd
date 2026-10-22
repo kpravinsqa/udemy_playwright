@@ -1,0 +1,22 @@
+#Lab Exercise 1: Sorting Products and Printing Prices using Playwright with Pytest
+1. Open the Website
+o Navigate to bstackdemo.com
+2. Locate and Verify Dropdown
+o Locate the "Order by" dropdown element.
+o Assert that it is visible and enabled.
+3. Sort Products
+o Select the "Lowest to highest" option from the dropdown.
+o Wait for the page to reflect the sorting changes.
+4. Extract Product Data
+o Capture all product prices and product names using locators:
+▪ prices
+▪ product names
+5. Print Products and Prices
+o Loop through all products and print names with corresponding prices.
+6. Identify Lowest & Highest Priced Products
+o Print the first product as the lowest priced
+o Print the last product as the highest priced
+Expected Output
+• All product names and their prices printed in ascending order of price.
+• Lowest-priced product printed first with its price.
+• Highest-priced product printed last with its price.
